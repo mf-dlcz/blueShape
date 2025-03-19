@@ -13,7 +13,7 @@
 
 
 
-![website screenshot](/shapes/img/shape.png)
+![website screenshot](img\shape.png)
 
 ## Demo
 
